@@ -139,7 +139,7 @@ nav .container {
   transform: translateY(8px);
 }
 
-.big-title {
+.large-title {
   position: absolute;
   z-index: 30;
   line-height: 4rem;
@@ -239,7 +239,7 @@ section .container > * {
 }
 
 @media (max-width: 600px) {
-  .big-title {
+  .large-title {
     font-size: 3rem;
   }
 
